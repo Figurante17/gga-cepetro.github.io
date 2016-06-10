@@ -1,0 +1,10 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|HUBRAL, P. ; TYGEL, M. . Analysis of the Rayleigh pulse. Geophysics, Tulsa, v. 54, n.05, p. 654-658, 1989.
+|TYGEL, M.; HUBRAL, P. . Constant Velocity Migration in the Various Guises of Plane-Wave Theory. Surveys in Geophysics, London, v. 10, p. 331-348, 1989|

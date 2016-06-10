@@ -1,0 +1,11 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página.
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas.
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe.
+
+>>>>>> Fim <<<<<<<< 
+
+|FACCIPIERI, J.H. ; GELIUS, L.J. ; TYGEL, M. . Improved CMP and CRS Stacking by a Combined Use of Conventional and Automatic Velocity Estimation. In: 75th EAGE Conference and Exhibition incorporating SPE EUROPEC 2013, 2013, London.|
+FACCIPIERI, J. H. ; GELIUS, L. J. ; TYGEL, M. . Diffraction separation based on perturbed CRS attributes. In: 13th International Congress of the Brazilian Geophysical Society & EXPOGEf, 2013, Rio de Janeiro. 13th International Congress of the Brazilian Geophysical Society & EXPOGEf, 2013.|
+TOMAZELI, L. D. ; LOPES, R. R. ; FACCIPIERI, J. H. ; ROMANO, J. M. T. ; TYGEL, M. . Separation of reflection from diffraction events via the CRS technique and a BSS method. In: 13th International Congress of the Brazilian Geophysical Society & EXPOGEf, 2013, Rio de Janeiro.|

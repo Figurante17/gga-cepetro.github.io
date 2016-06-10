@@ -1,0 +1,15 @@
+               
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+
+|TYGEL, M.; SANTOS, Lucio T . Quadratic Normal Moveouts of Symmetric Reflections in Elastic Media: A Quick Tutorial. Studia Geophysica et Geodaetica (Praha), Czech Republic (Aceito), v. 51, p. 185-206, 2007.
+
+|URSIN, B. ; TYGEL, M. . Zero-offset seismic amplitude decomposition and migration. Geophysics, v. 72, p. 187-193, 2007.
+
+|TYGEL, M.; URSIN, B. ; STOVAS, A. . Convergence of traveltime power series for a layered VTI medium. Geophysics, v. 72, p. 21-28, 2007.|

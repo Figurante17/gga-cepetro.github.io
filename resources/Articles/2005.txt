@@ -1,0 +1,25 @@
+               
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+
+|BORIN, E.; WANG, C. ; WU, Y. ; ARAUJO, G. . Dynamic binary control-flow errors detection. ACM SIGARCH Computer Architecture News, v. 33, p. 15-20, 2005.
+
+|MOREANO, N. ; BORIN, E. ; CID DE SOUZA, NULL ; SOUZA, Cid Carvalho de ; ARAUJO, G. . Efficient datapath merging for partially reconfigurable architectures. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v. 24, p. 969-980, 2005.
+
+|J.C. Costa ; NOVAIS, A. ; SILVA NETO, F.A. ; TYGEL, M. . 2.5D Acoustic Finite-Difference Modeling in variable density media. Journal of Seismic Exploration, Holanda, v. 13, p. 323-335, 2005.
+
+|PERROUD, H. ; TYGEL, M. . Velocity estimation by the common-reflection-surface (CRS) method: Using ground-penetrating radar data. Geophysics, Alemanha, v. 70 (6), p. B43-B52, 2005.
+
+|BILOTI, Ricardo ; SANTOS, Lúcio Tunes dos ; TYGEL, M. . Automatic Smoothing by Optimal Splines. Revista Brasileira de Geofísica, Rio de Janeiro, v. 21, p. 171-178, 2005.
+
+|SANTOS, Lúcio Tunes dos ; YANO, Flávio ; SALVATIERRA, Mário ; MARTINEZ, José Mario ; ADRIANI, Roberto ; TYGEL, M. . A global optimization algorithm applied to the common reflection surface (CRS) problem. Journal of Seismic Exploration, Londres, v. 14, p. 217-233, 2005.
+
+|GARABITO, German ; OLIVA, Pedro Chira ; TYGEL, M. ; SANTOS, Lúcio Tunes dos . A quick review of 2D topography traveltimes. Revista Brasileira de Geofísica, v. 23, p. 5-13, 2005.
+
+|MAJANA, Farid ; MASCARENHAS, Walter ; TYGEL, M. ; SANTOS, Lúcio Tunes dos . Refinement step for parameter estimation in the CRS method. Revista Brasileira de Geofísica, Rio de Janeiro, v. 21, p. 275-287, 2005.|

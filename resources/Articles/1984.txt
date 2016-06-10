@@ -1,0 +1,11 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; HUBRAL, P. . Transient Representation Of Sommerfeld-Weyl Integral With Application To The Point-Source Response From A Planar Interface.. Geophysics, Tulsa, v. 49, n.09, p. 1495-1505, 1984.
+|TYGEL, M.; HUBRAL, P. . Exact Transient Analytic Finite Integral Point-Source Response Of A Layered Acoustic Medium. Part I.. Journal of Seismic Exploration, Tulsa, v. 3, n.9, p. 791-792, 1984.
+|HUBRAL, P. ; TYGEL, M. . Exact Transient Analytic Finite Integral Point-Source Response Of A Layered Acoustic Medium: Part II. Journal of Seismic Exploration, Tulsa, v. 3, n.09, p. 793-795, 1984.|

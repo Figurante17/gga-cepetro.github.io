@@ -1,0 +1,17 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; CRUZ, J. C. R. ; SCHLEICHER, J. ; HUBRAL, P. ; HOCHT, G. . The Common Reflecting Element (CRE) method revisited. Geophysics, Tuksa, EUA, v. 65, p. 979-993, 2000.
+
+|TYGEL, M.; SANTOS, L. T. ; SCHLEICHER, J. ; HUBRAL, P. . Modeling, migration and demigration. Geophysics, Tulsa, EUA, v. 19, p. 712-715, 2000.
+
+|TYGEL, M.; SCHLEICHER, J. ; SANTOS, L. T. ; HUBRAL, P. . An asymptotic inverse to the Kirchhoff-Helmholtz integral. Inverse Problems, EUA, v. 16, p. 425-445, 2000.
+
+|TYGEL, M.; SCHLEICHER, J. ; SANTOS, L. T. ; HUBRAL, P. . Seismic modeling by demigration. Geophysics, Tulsa, EUA, v. 65, p. 1281-1289, 2000.
+
+|TYGEL, M.; N. Bleistein . An Introduction to this Special Section. Leading Edge (Tulsa, Okla.), v. 19, p. 37, 200|

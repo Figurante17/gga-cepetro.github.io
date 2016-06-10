@@ -1,0 +1,15 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; BILOTI, Ricardo ; SANTOS, Lucio T . Multiparametric traveltime inversion.. Studia Geophysica et Geodaetica, Republica Theca, v. 46, p. 177-192, 2002.
+
+|TYGEL, M.; ZHANG, Y. ; BERGLER, S. ; HUBRAL, P. . Model-independent traveltime attributes for 2-D, finite-offset multi-coverage reflections.. Pure and Applied Geophysics, Nova Zelândia, v. 159, p. 1601-1616, 2002.
+
+|SANTOS, Lucio T ; TYGEL, M. ; RAMOS, A. C. B. . Reflection impedance. Geophysics, v. 72, p. 225-228, 2002.
+
+|ESCOBAR, C. C. P. ; TYGEL, M. ; SANTOS, Lucio T . Applications of automata theory to ray tracing. Geophysics, v. 72, p. 2011-2014, 2002.|

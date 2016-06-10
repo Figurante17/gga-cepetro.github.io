@@ -1,0 +1,18 @@
+               
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|BORIN, E.; ARAUJO, G. ; BRETERNITZ JR., M ; WU, Y. . Microcode Compression using Structured-constrained Clustering. International Journal of Parallel Programming, v. August, p. 1573-7640, 2012.
+
+|TYGEL, M.; URSIN, B. ; IVERSEN, E. ; Hoop, M.V. . Estimation of geological dip and curvature from time-migrated zero-offset seismic reflections in heterogeneous anisotropic media. Geophysical Prospecting (Print), v. 60, p. 201-216, 2012.
+
+|TAKAHATA, A. K. ; Nadalin, E.Z. ; FERRARI, R. ; Duarte, L.T. ; Lopes, R. ; SUYAMA, R. ; ROMANO, J. M. ; TYGEL, M. . Unsupervised Processing of Geophysical Signals: A Review of Some Key Aspects of Blind Deconvolution and Blind Source Separation.. IEEE Signal Processing Magazine (Print), v. 29, p. 27-35, 2012.
+
+|ASGEDOM, E. G. ; Gelius, L.J. ; TYGEL, M. . Seismic Coherency Measures in Case of Interfering Events: A Focus on the Most Promising Candidates of Higher-Resolution Algorithms. IEEE Signal Processing Magazine (Print), v. 29, p. 47-56, 2012.
+
+|Iversen, E. ; TYGEL, M. ; URSIN, B. ; Hoop, M.V. . Kinematic time migration and demigration of reflections in pre-stack seismic data. Geophysical Journal International (Print), v. 189, p. 1635-1666, 2012.|

@@ -1,0 +1,19 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; LEYKAM, A. ; HUBRAL, P. ; AMORIM, W. N. ; PESTANA, R. C. . Transforming a Point-Source Seismogram into a Beam Seismogram. Geophysics, Tulsa, v. 56, n.11, p. 1819-1824, 1991.
+
+|HUBRAL, P. ; TYGEL, M. ; ZIEN, H. . 3D True-Amplitude Zero- Offset Migration. Geophysics, Tulsa, v. 56, n.01, p. 18-26, 1991.
+
+|SHLEICHER, J. ; HUBRAL, P. ; TYGEL, M. . Non-Specular Reflections from a Curved Interface. Geophysics, Tulsa, v. 56, n.08, p. 1203-1214, 1991.
+
+|TYGEL, M.; HUCK, H. ; HUBRAL, P. . Mixed-delay wavelet deconvolution of the point-source seismogram. Geophysics, Tulsa, v. 56, n.09, p. 1405-1411, 1991.
+
+|HUBRAL, P. ; TYGEL, M. . Reply by the authors to David F. Aldridge. Geophysics, v. 56, p. 149, 1991.
+
+|HUBRAL, P. ; TYGEL, M. ; ZIEN, H. . Three-dimensional true-amplitude zero-offset migration. Geophysics, v. 56, p. 18-26, 1991.|

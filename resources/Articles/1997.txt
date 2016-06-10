@@ -1,0 +1,23 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|SCLEICHER, J. ; HUBRAL, P. ; TYGEL, M. ; JAYA, S. J. . Minimum Apertures And Fresnel Zones In Migration And Demigration. Geophysics, Tulsa, v. 62, n.1, p. 183-194, 1997.
+
+|URSIN, B. ; TYGEL, M. . Reciprocal Volume And Surface Scattering Integrals For Anisotropic Elastic Media. Wave Motion, New York, v. 26, n.1, p. 31-42, 1997.
+
+|NOVAIS, M. A. ; SANTOS, L. T. ; TYGEL, M. ; URSIN, B. . A unified Born-Kirchhoff approximation for acoustic media. Journal of Seismic Exploration, Amsterdam, v. 6, n.2, p. 217-226, 1997.
+
+|SANTOS, L. T. ; SCHLEICHER, J. ; TYGEL, M. . 2.5-D True-amplitude offset continuation. Journal of Seismic Exploration, Amsterdam, v. 6, n.2, p. 103-116, 1997.
+
+|MARTINS, J. L. ; SCHLEICHER, J. ; TYGEL, M. . 2.5-D True-amplitude migration and demigration. Journal of Seismic Exploration, Amsterdam, v. 6, n.2, p. 159-180, 1997.
+
+|OLIVEIRA, A. ; TYGEL, M. ; FILPO, E. . On the apllication of true-amplitude DMO. Journal of Seismic Exploration, Amsterdam, v. 6, n.2, p. 279-290, 1997.
+
+|TYGEL, M.; Müiller, Thilo ; HUBRAL, P. ; SCHLEICHER, J. . Eigenwave based multiparameter traveltime expansions. Journal of Seismic Exploration, v. 8, p. 1770-1773, 1997.
+
+|SANTOS, L. T. ; SCHLEICHER, J. ; TYGEL, M. ; HUBRAL, P. . Modeling by demigration. Journal of Seismic Exploration, v. 16, p. 1909-1912, 1997.|

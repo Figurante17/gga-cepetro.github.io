@@ -1,0 +1,15 @@
+               
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+
+|URSIN, B. ; TYGEL, M. ; IVERSEN, E. . SS-traveltime parameters from PP and PS reflections. Geophysics, v. 74, p. R35-R47, 2009.
+
+|FARIAS, Armando Lopes ; FREITAS, L. B. DE ; TYGEL, M. . Detecção de camadas delgadas usando sísmica de reflexão. Revista Brasileira de Geociências, v. 38, p. 159-171, 2009.
+
+|TYGEL, M.; SHLEICHER, J. ; COSTA, J. C. ; NOVAIS, A. . On the estimation of local slopes. Geophysics, v. 74, p. P25-P33, 2009.|

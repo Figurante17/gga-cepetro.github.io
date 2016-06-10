@@ -1,0 +1,10 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|HUBRAL, P. ; TYGEL, M. . Transient Finite Integral Point-Source Response From A Planar Acoustic Interface: The Causality Approach.. Geophysical Prospecting, The Hague, v. 34, p. 1-10, 1986.
+|TYGEL, M.; HUBRAL, P. . Finite Integral Solution for the Point-Source Response of a Layered Acoustic Medium. Geophysical Journal International, Inglaterra, v. 48, p. 647-651, 1986.|

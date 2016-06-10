@@ -1,0 +1,15 @@
+               
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+
+|DELL, SERGIUS ; GAJEWSKI, DIRK ; TYGEL, MARTIN . Image-ray Tomography. Geophysical Prospecting (Print), v. 62, p. n/a-n/a, 2014.|
+PERROUD, H. ; KRUMMENAUER, R. ; M. Tygel ; Lopes, R.R. . Parameter estimation from non-hyperbolic reflection traveltimes for large aperture common midpoint gathers. Near Surface Geophysics (Online), v. 12, p. 679-686, 2014.|
+BARROS, TIAGO ; LOPES, RENATO ; TYGEL, MARTIN . Implementation aspects of eigendecomposition-based high-resolution velocity spectra. Geophysical Prospecting (Print), v. 63, p. n/a-n/a, 2014.
+|PILA, MATHEUS F. ; Schleicher, Jörg ; Novais, Amélia ; Coimbra, Tiago A. . True-amplitude single-stack redatuming. Journal of Applied Geophysics, v. 105, p. 95-111, 2014.|
+BERTAZI, G. K. ; AULER, R. ; BORIN, E. . Uma plataforma para o ensino de organização de computadores e linguagem de montagem. International Journal of Computer Architecture Education, v. 3, p. 13-16, 2014.|

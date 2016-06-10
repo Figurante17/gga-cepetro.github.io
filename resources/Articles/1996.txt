@@ -1,0 +1,17 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|SANTOS, L. T. ; URSIN, B. ; TYGEL, M. . Wave Series Expansions For A Stratified Fluid. Russian Geology and Geophysics, New York, v. 37, n.9, p. 23-45, 1996.
+
+|HUBRAL, P. ; TYGEL, M. ; SCHLEICHER, J. . Seismic Image Waves. Geophysical Journal International, London, v. 125, n.4, p. 431-442, 1996.
+
+|TYGEL, M.; SCHLEICHER, J. ; HUBRAL, P. . A Unified Approach To 3-D Seismic Reflection Imaging - Part II: Theory. Geophysics, Tulsa, v. 61, n.3, p. 759-775, 1996.
+
+|HUBRAL, P. ; SCHLEICHER, J. ; TYGEL, M. . A Unified Approach To 3-D Seismic Reflection Imaging - Part I: Basic Concepts. Geophysics, Tulsa, v. 61, n.3, p. 742-758, 1996.
+
+|TYGEL, M.; SCHLEICHER, J. ; HUBRAL, P. . 2.5-D Kirchoff MZO in laterally inhomogeneous media. Journal of Seismic Exploration, v. 7, p. 483-486, 1996.|

@@ -1,0 +1,19 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|SCHLEICHER, J. ; HUBRAL, P. ; TYGEL, M. . Three-dimensional Primary Zero-Offset Reflections. Geophysics, Tulsa, v. 58, n.05, p. 692-702, 1993.
+
+|SHLEICHER, J. ; HUBRAL, P. ; TYGEL, M. ; HANITZSH, C. . Determination of Fresnel Zones from Traveltime Measurements. Geophysics, Tulsa, v. 58, n.05, p. 703-712, 1993.
+
+|SCHLEICHER, J. ; TYGEL, M. ; HUBRAL, P. . 3D True-Amplitude Finite-Offset Migration. Geophysics, Tulsa, v. 58, n.08, p. 1112-1126, 1993.
+
+|SCHLEICHER, J. ; TYGEL, M. ; HUBRAL, P. . Parabolic and Hyperbolic Paraxial Two-Point Traveltimes in 3-D Media. Geophysical Prospecting, The Hague, v. 41, n.04, p. 495-554, 1993.
+
+|TYGEL, M.; SCHLEICHER, J. ; HUBRAL, P. ; HANITZSH, C. . Multiple Weights in Diffraction Stack Migration. Geophysics, Tulsa, v. 58, n.12, p. 1820-1830, 1993.
+
+|SCHLEICHER, J. ; HUBRAL, P. ; TYGEL, M. . Geometrical-Spreading Correction by a Dual Diffraction Stack. Geophysics, Tulsa, v. 58, n.12, p. 1870-1873, 1993.|

@@ -1,0 +1,15 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; SCHLEICHER, J. ; HUBRAL, P. . Geometrical - Spreading Corrections of Offset Reflections in a Laterally Inhomogeneous Earth. Geophysics, Tulsa, v. 57, n.08, p. 1054-1063, 1992.
+
+|HUBRAL, P. ; SCHLEICHER, J. ; TYGEL, M. . Three-Dimensional Paraxial Ray Properties - Part I. Basic Relations. Journal of Seismic Exploration, Amsterdam, v. 1, n.03, p. 265-279, 1992.
+
+|HUBRAL, P. ; SCHLEICHER, J. ; TYGEL, M. . Three-Dimensional Paraxial Ray Properties - Part II. Applications. Journal of Seismic Exploration, Amsterdam, v. 1, n.04, p. 347-362, 1992.
+
+|HUBRAL, P. ; SCHLEICHER, J. ; HANITZSCH, C. ; TYGEL, M. . Determination of fresnel zones from traveltime measurements. Journal of Seismic Exploration, v. 11, p. 1236-1239, 1992|

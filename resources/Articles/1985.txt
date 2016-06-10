@@ -1,0 +1,12 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|HUBRAL, P. ; TYGEL, M. . Transient Response From A Planar Acoustic Interface By A New Point-Source Decomposition Into Plane Waves.. Geophysics, Tulsa, v. 50, n.05, p. 776-774, 1985.
+|TYGEL, M.; HUBRAL, P. . Transient plane-wave transforms for the point-source seismogram. Geophysics, Tulsa, v. 50, n.12, p. 2889-2891, 1985.
+|TYGEL, M.; HUBRAL, P. . Transient analytic point-source response of a layered acoustic medium: Part II. Geophysics, v. 50, p. 1478-1487, 1985.
+|TYGEL, M.; HUBRAL, P. . Transient analytic point-source response of a layered acoustic medium: Part I. Geophysics, v. 50, p. 1466-1477, 1985.|

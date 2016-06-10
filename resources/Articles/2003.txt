@@ -1,0 +1,11 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|SANTOS, Lucio T ; TYGEL, M. . Impedance-Type Approximations of the P-P Elastic Reflection Coefficient: Modeling and AVO Inversion. Geophysics, Estados Unidos, v. 69, p. 592-598, 2004.
+
+|Chira Oliva, P. C. ; TYGEL, M. ; Hubral, P. ; SCHLEICHER, J. . A fourth-order CRS moveout for reflection or diffraction events: Numerical examples. Journal of Seismic Exploration, v. 12, n.10, p. 197-219, 2003.|

@@ -1,0 +1,15 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; SCHLEICHER, J. ; HUBRAL, P. . Dualities Between Reflectors And Reflection-Time Surfaces. Journal of Seismic Exploration, Amsterdam, v. 4, p. 123-150, 1995.
+
+|HUBRAL, P. ; TYGEL, M. ; SCHLEICHER, J. . Geometrical-spreading and ray-caustic decomposition of elementary seismic waves. Geophysics, Tulsa, v. 60, n.04, p. 1195-1202, 1995.
+
+|SCHLEICHER, J. ; TYGEL, M. ; HUBRAL, P. . Reply by the authors to the discussion by Gijs J. O. Vermeer. Geophysics, v. 60, p. 922-923, 1995.
+
+|TYGEL, M.; SCHLEICHER, J. ; HUBRAL, P. . Reply by the authors to Arthur E. Barnes. Geophysics, v. 60, p. 1944-1946, 1995.|

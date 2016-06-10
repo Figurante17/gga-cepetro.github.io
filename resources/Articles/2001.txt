@@ -1,0 +1,23 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe. 
+
+>>>>>> Fim <<<<<<<< 
+
+|TYGEL, M.; ZHANG, Y. ; HUBRAL, P. ; OLIVA, Pedro Chira . Analytic CRS formula for a 2D curved measurement surface and finite-offset reflections.. Journal of Seismic Exploration, Holanda, v. 10, p. 245-262, 2001.
+
+|PERES, O. ; KOSLOFF, D. ; KOREN, Z. ; TYGEL, M. . A practical approach to true-amplitude migration.. Journal of Seismic Exploration, Holanda, v. 10, p. 183-204, 2001.
+
+|TYGEL, M.; SCHLEICHER, J. ; SANTOS, L. T. ; HUBRAL, P. . The Kirchhoff Helmholtz integral pair.. Journal of Computational Acoustics, New York, v. 9, n.4, p. 1383-1394, 2001.
+
+|BILOTI, Ricardo ; SANTOS, L. T. ; TYGEL, M. . Obtaining AVO and AVA Curves from CRS Attributes.. Journal of Seismic Exploration, Amsterdam, v. 10, p. 19-29, 2001.
+
+|SCHLEICHER, J. ; SANTOS, L. T. ; TYGEL, M. . Seismic migration by demodeling.. Journal of Seismic Exploration, Amsterdam, v. 10, p. 59-76, 2001.
+
+|SCHLEICHER, J. ; TYGEL, M. ; URSIN, B. ; N. Bleistein . The Kirchhoff-Helmholtz integral for anisotropic media.. Wave Motion, Amsterdam, v. 34, p. 353-364, 2001.
+
+|TYGEL, M.. On: "Multicomponent Kirchhoff migration" (K. Hokstad, GEOPHYSICS, 65, 861?873). Geophysics, v. 66, p. 357, 2001.
+
+|ROUSSET, D. ; TYGEL, M. ; PERROUD, H. . Attaching true amplitudes to kinematically migrated images. Journal of Seismic Exploration, v. 10, p. 292-295, 2001.|

@@ -1,0 +1,12 @@
+>>>>> Atencao <<<<<<<<
+
+- Não altetar nem excluir o cabeçalho para não alterar o comportamento da página.
+- Os artigos devem ser separados pelo separador Pipe '|' sem aspas.
+- O primeiro atigo deve iniciar com Pipe e o último artigo deverá encerrar com Pipe.
+
+>>>>>> Fim <<<<<<<< 
+
+|COIMBRA, T.A.; SANTOS, H.B.; SCHLEICHER, J.; NOVAIS, A. . Prestack Migration Velocity Analysis Using Time-remigration Trajectories. In: 76th EAGE Conference and Exhibition 2014, 2014, Amsterdam, 2014.|
+FACCIPIERI, J.H.; COIMBRA, T.A.; TYGEL, M. ; GELIUS, L.J. . Common-Refection-Surface (CRS) Stacking with Diffraction Moveouts of Varying Aperture. In: 76th EAGE Conference and Exhibition Workshops, 2014, Amsterdam, 2014.|
+FACCIPIERI, J.H.; COIMBRA, T.A.; GELIUS, L.J.; TYGEL, M. . A CRS-based Heterogeneity Attribute. In: 76th EAGE Conference and Exhibition Workshops, 2014, Amsterdam, 2014.|
+
